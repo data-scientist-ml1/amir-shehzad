@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science, Machine Learning, Web development
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on open source projects or private projects
-- 📫 How to reach me: amir_shehzad@outlook.com
+- 📫 How to reach me: amir_shehzad@outlook.com, https://www.linkedin.com/in/amir-shehzad/
 
 <!---
 amir-shehzad/amir-shehzad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
