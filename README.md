@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amir-shehzad
-- 👀 I’m interested in Data Science, Machine Learning, Web development
-- 🌱 I’m currently learning Django.
+- 👀 I’m interested in Web development, System Design, Cloud Computing and Data Science.
+- 🌱 I’m currently learning AWS.
 - 💞️ I’m looking to collaborate on open source projects or private projects
 - 📫 How to reach me: amir_shehzad@outlook.com, https://www.linkedin.com/in/amir-shehzad/
 
